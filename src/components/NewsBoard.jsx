@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import NewsItem from "./NewsItem";
 
-function Newsboard({ category }) {
+function NewsBoard({ category }) {
   const [articles, setArticles] = useState([]);
 
   useEffect(() => {
@@ -32,4 +32,4 @@ function Newsboard({ category }) {
   );
 }
 
-export default Newsboard;
+export default NewsBoard;

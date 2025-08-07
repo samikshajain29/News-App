@@ -13,7 +13,7 @@ A responsive news application built with **React.js** that fetches the latest he
 
 - React.js  
 - Axios  
-- CSS / Tailwind / Bootstrap (based on your project)
+- Bootstrap
 - NewsAPI
 
 ## 🚀 How to Run
